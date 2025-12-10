@@ -98,7 +98,7 @@ projeto-ia-ml/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/fundamentos-ia-ml.git
+git clone https://github.com/SEU-USUARIO/PROJETO-IA-ML.git
 cd fundamentos-ia-ml
 
 # 2. Crie e ative ambiente virtual

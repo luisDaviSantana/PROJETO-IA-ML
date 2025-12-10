@@ -1,0 +1,19 @@
+# Python
+venv*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.DS_Store
+
+# Data files
+*.csv
+*.json
+*.pkl
